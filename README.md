@@ -1,3 +1,2 @@
-use `npm start` to run the project
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Use the below link to see the site.
+https://item-list-manger-f47e13.netlify.app/
