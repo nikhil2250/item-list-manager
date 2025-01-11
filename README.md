@@ -1,2 +1,2 @@
-Use the below link to see the site.
+Use the below link to view the site:  
 https://item-list-manger-f47e13.netlify.app/
